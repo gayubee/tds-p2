@@ -1,0 +1,12 @@
+flask
+openai
+requests
+gunicorn 
+fastapi
+numpy
+pandas
+python-dotenv
+uvicorn
+uvi
+pydantic
+python-multipart
